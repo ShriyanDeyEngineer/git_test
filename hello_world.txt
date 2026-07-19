@@ -4,6 +4,8 @@ Some Git commands I have just learned to use:
 2. git add .
 3. git commit
 4. git status
-5. git push
+5. git log
+6. git clone
+7. git push
 
 Entering "code ." into your local command line terminal opens VS Code if set up correctly.
