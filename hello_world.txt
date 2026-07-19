@@ -7,5 +7,5 @@ Some Git commands I have just learned to use:
 5. git log
 6. git clone
 7. git push
-
+The basic Git syntax is program | action | destination
 Entering "code ." into your local command line terminal opens VS Code if set up correctly.
