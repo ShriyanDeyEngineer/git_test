@@ -1,8 +1,9 @@
 Hello, testing Git commands. I am glad to be learning from The Odin Project (TOP).
 Some Git commands I have just learned to use:
 1. git add
-2. git commit
-3. git status
-4. git add .
+2. git add .
+3. git commit
+4. git status
+5. git push
 
 Entering "code ." into your local command line terminal opens VS Code if set up correctly.
